@@ -5,7 +5,7 @@ helloShan
 
 Changes the color of text after user clicks the "Click to see magic" button
 
-<img src = "https://github.com/srafique98/HelloFromShanAndroid/blob/master/ChangeTextColorPrt2.gif" width=200><br>
+<img src = "https://github.com/srafique98/HelloFromShanAndroid/blob/master/ChangeTextColorPrt2.gif" width=500><br>
 
 
 
